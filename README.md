@@ -92,3 +92,5 @@ FitTrack uses Hive for local data persistence. Workout records are stored locall
 ## Author
 
 Developed as a personal Flutter application project.
+
+
